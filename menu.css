@@ -1,0 +1,48 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+    box-sizing: border-box;
+}
+h1{
+    text-align: center;
+    color: blue;
+    padding: 20px;
+
+}
+nav{
+    background-color: blueviolet;
+    place-items:center;
+    display: grid ;
+
+}
+nav ul{
+    list-style-type: none;
+}
+nav ul a{
+    display: inline-block;
+    padding: 15px;
+    text-decoration: none;
+    color: red;
+    font-size: 18px;
+    
+
+}
+nav ul a:hover{
+    background-color: beige;
+    color: black;
+}
+body{
+    background-color: aqua;
+    
+}
+.bnt{
+    font-size: 15px;
+
+}
+.nav2{
+    margin: 5px;
+    background-color: rgb(43, 41, 41);
+}
+
+    
